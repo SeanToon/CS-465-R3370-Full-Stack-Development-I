@@ -6,11 +6,11 @@ In my full stack project, I utilized several frontend technologies, including Ex
 
 With Express HTML and EJS(Embedded JavaScript) templating engine I was able to generate HTML dynamically on the server-side. My approach allowed me to render HTML pages with real-time data pulled from the backend, enabling a seamless experience for the user.
 
-JavaScript played a big role in the development process, particularly for adding interactivity to the web pages. It allowed me to handle user input, manage events, and update the user interface.
+JavaScript also plays a big role in the development process, particularly for adding interactivity to the web pages. 
 
 Developing the app as a SPA allowed me to create a highly dynamic web application. By using JavaScript the page loads only once and then interacts with the backend through API calls to fetch data. This made the app fast and responsive, with minimal reloads and improving overall user experience. 
 
-I used MongoDB (NoSQL Database) for the backend because of its flexibility, scalability, and ease of integration with Javascript. MongoDB uses a document-oriented structure with JSON-like data, which aligns well with JavaScript and JSON. This made it easier to stor retrieve, and manage data in a format thats compatible with the frontend, particularly for complex or evolving data structures. Additionally, MongoDBs ability to handle large datasets and scale horizontally makes it an ideal choice for modern web applications with high traffic demands. 
+I used MongoDB (NoSQL Database) for the backend because of its flexibility, scalability, and ease of integration with Javascript. MongoDB uses a document-oriented structure with JSON-like data, which aligns well with JavaScript and JSON. This made it easier to store retrieve, and manage data in a format thats compatible with the frontend, particularly for complex or evolving data structures. Additionally, MongoDBs ability to handle large datasets and scale horizontally makes it an ideal choice for modern web applications with high traffic demands. 
 
 JSON VS. JAVASCRIPT AND HOW THEY CONNECTED MY FRONTEND AND BACKEND
 
